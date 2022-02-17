@@ -1,3 +1,5 @@
 cd openai-quickstart-node
 cp .env.example .env
 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
+npm install
+npm run dev
